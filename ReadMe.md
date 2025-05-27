@@ -37,5 +37,3 @@
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/roman-jasinski/count.svg" alt="roman-jasinski's Github visitor Counts" />
 </p>
-
-# **_One man’s crappy software is another man’s full-time job._**
